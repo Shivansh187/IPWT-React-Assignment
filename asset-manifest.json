@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IPWT-React-Assignment/static/css/main.161d1af2.chunk.css",
+    "main.js": "/IPWT-React-Assignment/static/js/main.b3de4c0c.chunk.js",
+    "main.js.map": "/IPWT-React-Assignment/static/js/main.b3de4c0c.chunk.js.map",
+    "runtime-main.js": "/IPWT-React-Assignment/static/js/runtime-main.892411b2.js",
+    "runtime-main.js.map": "/IPWT-React-Assignment/static/js/runtime-main.892411b2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/IPWT-React-Assignment/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cb55746a.chunk.js": "/IPWT-React-Assignment/static/js/2.cb55746a.chunk.js",
+    "static/js/2.cb55746a.chunk.js.map": "/IPWT-React-Assignment/static/js/2.cb55746a.chunk.js.map",
+    "index.html": "/IPWT-React-Assignment/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/IPWT-React-Assignment/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.161d1af2.chunk.css.map": "/IPWT-React-Assignment/static/css/main.161d1af2.chunk.css.map",
+    "static/js/2.cb55746a.chunk.js.LICENSE.txt": "/IPWT-React-Assignment/static/js/2.cb55746a.chunk.js.LICENSE.txt",
+    "static/media/IoT Png.5882b2b3.png": "/IPWT-React-Assignment/static/media/IoT Png.5882b2b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892411b2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cb55746a.chunk.js",
+    "static/css/main.161d1af2.chunk.css",
+    "static/js/main.b3de4c0c.chunk.js"
+  ]
+}
